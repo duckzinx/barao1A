@@ -1,17 +1,38 @@
-main{
-  background-color:#88DBEB;
+header {
+   background: #5CBF5F;
+   padding: 20px 0;
 }
-fundo do header/footer
-header{
-  background-color:#88DBEB;
+
+.logo {
+   widht: 200px;
+   height: 200px;
 }
-footer{
-  background-color:#88DBEB;
+
+.caixa {
+   position: relative;
+   width: 940px;
+   margin: 0 auto;
 }
-FORMAÇÃO DE TÍTULO
-h1{
-  colo:#88DBEB;
+
+nav {
+   position: absolute;
+   top: 110px;
+   right: 0;
 }
- 
+
+nav li {
+   display: inline;
+   margin: 0 0 0 15px;
+}
+
+nav a {
+   text-transform: uppercase;
+   color: #000000;
+   font-weight: bold;
+   font-size: 22px;
+   text-decoration: none;
+}
+
+
   
   
